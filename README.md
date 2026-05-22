@@ -14,7 +14,7 @@ The project demonstrates practical Software Quality Assurance (SQA) skills inclu
 -Microsoft Excel / CSV
 -Manual Testing
 -Bug Reporting
--Screenshot Evidence
+-Video Evidence
 
 ## Project Contents
 -File Name	Description
@@ -42,7 +42,7 @@ Each bug report contains:
 -Severity
 -Priority
 -Status
--Screenshots/Evidence
+-Video Evidence
 
 ## Sample Bug Categories
 -Functional Bugs
