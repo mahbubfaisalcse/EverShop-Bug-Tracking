@@ -7,7 +7,6 @@ The project demonstrates practical Software Quality Assurance (SQA) skills inclu
 -Bug Documentation
 -Severity & Priority Analysis
 -Reproducible Test Evidence
--Jira-style Bug Tracking Process
 
 ## Tools & Technologies Used
 -Jira
